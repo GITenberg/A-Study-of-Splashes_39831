@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32477'
     url: http://www.gutenberg.org/2009/agents/32477
 description: 'Includes his 1894 lecture: The splash of a drop and allied phenomena.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39831#A-Study-of-Splashes
 gutenberg_issued: '2012-05-28'
 gutenberg_type: Text
 identifiers:
