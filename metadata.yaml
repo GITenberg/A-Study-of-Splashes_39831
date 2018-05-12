@@ -1,0 +1,28 @@
+_repo: A-Study-of-Splashes_39831
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39831-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Worthington, A. M. (Arthur Mason)
+    alias: Worthington, Arthur Mason
+    birthdate: 1852
+    deathdate: 1916
+    gutenberg_agent_id: '32477'
+    url: http://www.gutenberg.org/2009/agents/32477
+description: 'Includes his 1894 lecture: The splash of a drop and allied phenomena.'
+gutenberg_issued: '2012-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39831'
+  lccn: 09001411
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Splashes'
+title: A Study of Splashes
+url: http://www.gutenberg.org/ebooks/39831
